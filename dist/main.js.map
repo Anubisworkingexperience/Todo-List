@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAAAA,QAAQC,IAAI,GACZD,QAAQC,IAAI","sources":["webpack://todo-list/./src/index.js"],"sourcesContent":["console.log(2+2);\nconsole.log('Farruh sigma');"],"names":["console","log"],"sourceRoot":""}
